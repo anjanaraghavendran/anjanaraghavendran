@@ -3,7 +3,7 @@
 I'm a data enthusiast with expertise in **Python** and Visualisation Tools like **PowerBI, Google Looker Studio and Tableau**. I'm also expanding my expertise by learning R. I've worked on projects using **Django** and have a growing interest in **AI** and **ML**. Always learning and improving my skills. I strive to transform data into meaningful insights.
 
 ## ⚙️ Tech Stack
-- **Languages**/**Applications**: Python, SQL, R, Power BI, Google Looker Studio, Tableau
+- **Languages**/**Applications**: Python, SQL, Power BI, Google Looker Studio, Tableau
 - **Libraries/Frameworks**: Pandas, NumPy, Django  
 - **Interests**: Exploratory Data Analysis And Artificial Intelligence
 
