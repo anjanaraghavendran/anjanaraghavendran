@@ -1,14 +1,14 @@
 👋 Hi, I'm Anjana
 
-I'm a data enthusiast with expertise in **Python** and Visualisation Tools like **PowerBI, Google Looker Studio and Tableau**. I'm also expanding my expertise by learning R. I've worked on projects using **Django** and have a growing interest in **AI** and **ML**. Always learning and improving my skills. I strive to transform data into meaningful insights.
+I'm a data enthusiast with expertise in **Python** , strong fundamentals in java for dsa, and Visualisation Tools like **PowerBI, Google Looker Studio and Tableau**. I'm also expanding my expertise by learning R. I've worked on projects using **Django** and have a growing interest in **AI** and **ML**. Always learning and improving my skills. I strive to transform data into meaningful insights.
 
 ## ⚙️ Tech Stack
 - **Languages**/**Applications**: Python, SQL, Power BI, Google Looker Studio, Tableau
 - **Libraries/Frameworks**: Pandas, NumPy, Django  
-- **Interests**: Exploratory Data Analysis And Artificial Intelligence
+- **Interests**: Exploratory Data Analysis, AI and ML
 
 ## 💬 Fun Fact
-My code is like a good dataset — it has a lot of potential, but it’s a little messy hehe.
+I love solving problems and creating meaningful impacts in teamwork.
 
 
 <!--
