@@ -47,7 +47,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-0d1117?style=flat&logo=mysql)
 
 ---
-https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
 ## ⚡ What I’m Working On
 - 🤖 AI systems using **OCR + RAG pipelines**
@@ -58,9 +58,7 @@ https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anjanaraghavendran&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anjanaraghavendran&layout=compact&theme=radical)
 ![Streak](https://streak-stats.demolab.com?user=anjanaraghavendran&theme=radical)
 
 ---
@@ -87,6 +85,7 @@ https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-
 → Built as a **prototype to solve cold-start challenges in community platforms**
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 💬 Fun Fact
 I enjoy breaking down complex systems and building solutions that actually make sense in the real world 🚀
