@@ -57,7 +57,8 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=anjanaraghavendran&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anjanaraghavendran&show_icons=true&theme=radical&count_private=true)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anjanaraghavendran&layout=compact&theme=radical)
 ![Streak](https://streak-stats.demolab.com?user=anjanaraghavendran&theme=radical)
 
