@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Anjana</h1>
 
 <p align="center">
-  <b>Data Engineer • Full Stack Developer • AI Enthusiast</b>
+  <b>Aspiring Data Engineer • Full Stack Developer • AI ML Enthusiast</b>
 </p>
 
 ---
@@ -47,6 +47,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-0d1117?style=flat&logo=mysql)
 
 ---
+https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif
 
 ## ⚡ What I’m Working On
 - 🤖 AI systems using **OCR + RAG pipelines**
