@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 - 🔍 Turning **raw data into actionable insights**
-- 🧠 Building **AI-driven systems (OCR, RAG, recommendations)**
-- 🌐 Exploring **Full Stack (React, Flask, SQL)**
+- 🧠 Building **AI-driven systems (OCR, RAG, NLP)**
+- 🌐 Exploring **Full Stack (React, Flask, MERN)**
 - ⚙️ Interested in **data pipelines, scalable systems & real-world impact**
-- 🌱 Currently learning **R + advancing in system design**
+- 🌱 Currently learning **Advanced Data Engineering concepts & AIML**
 
 ---
 
@@ -34,7 +34,17 @@
 
 ### 🌐 Full Stack
 ![React](https://img.shields.io/badge/-React-0d1117?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-0d1117?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat&logo=mongodb)
+
 ![Flask](https://img.shields.io/badge/-Flask-0d1117?style=flat&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0d1117?style=flat&logo=fastapi)
+
+![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat&logo=css3)
+
+![SQL](https://img.shields.io/badge/-SQL-0d1117?style=flat&logo=mysql)
 
 ---
 
