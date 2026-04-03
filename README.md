@@ -1,27 +1,85 @@
-👋 Hi, I'm Anjana
+<h1 align="center">Hey 👋, I'm Anjana</h1>
 
-I'm a data enthusiast with expertise in **Python** , strong fundamentals in java for dsa, and Visualisation Tools like **PowerBI, Google Looker Studio and Tableau**. I'm also expanding my expertise by learning R. I've worked on projects using **Django** and have a growing interest in **AI** and **ML**. Always learning and improving my skills. I strive to transform data into meaningful insights.
+<p align="center">
+  <b>Data Engineer • Full Stack Developer • AI Enthusiast</b>
+</p>
 
-## ⚙️ Tech Stack
-- **Languages**/**Applications**: Python, SQL, Power BI, Google Looker Studio, Tableau
-- **Libraries/Frameworks**: Pandas, NumPy, Django  
-- **Interests**: Exploratory Data Analysis, AI and ML
+---
+
+## 🚀 About Me
+- 🔍 Turning **raw data into actionable insights**
+- 🧠 Building **AI-driven systems (OCR, RAG, recommendations)**
+- 🌐 Exploring **Full Stack (React, Flask, SQL)**
+- ⚙️ Interested in **data pipelines, scalable systems & real-world impact**
+- 🌱 Currently learning **R + advancing in system design**
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-0d1117?style=flat&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-0d1117?style=flat&logo=java)
+
+### 🧠 Data & AI
+![Pandas](https://img.shields.io/badge/-Pandas-0d1117?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-0d1117?style=flat&logo=numpy)
+![FAISS](https://img.shields.io/badge/-FAISS-0d1117?style=flat&logo=meta)
+
+### 📊 Visualization
+![PowerBI](https://img.shields.io/badge/-PowerBI-0d1117?style=flat&logo=powerbi)
+![Tableau](https://img.shields.io/badge/-Tableau-0d1117?style=flat&logo=tableau)
+![Looker](https://img.shields.io/badge/-Looker%20Studio-0d1117?style=flat&logo=google)
+
+### 🌐 Full Stack
+![React](https://img.shields.io/badge/-React-0d1117?style=flat&logo=react)
+![Flask](https://img.shields.io/badge/-Flask-0d1117?style=flat&logo=flask)
+
+---
+
+## ⚡ What I’m Working On
+- 🤖 AI systems using **OCR + RAG pipelines**
+- 📦 Data-driven applications with **Python & SQL**
+- 🌐 Improving **full stack development skills**
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=anjanaraghavendran&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjanaraghavendran&layout=compact&theme=radical)
+
+![Streak](https://streak-stats.demolab.com?user=anjanaraghavendran&theme=radical)
+
+---
+
+## 🎯 Featured Projects
+
+### 🔹 AI Logistics Automation (OCR-based Rerouting)
+→ Built an AI-powered OCR system to extract shipment data from damaged barcodes  
+→ Enabled smarter rerouting decisions, improving logistics efficiency  
+→ Focused on **data extraction, validation, and workflow automation**
+
+---
+
+### 🔹 TravelLens – Smart Travel Insights & Recommendations
+→ Developed a travel logging + recommendation system using **RAG + FAISS**  
+→ Built full stack app using **React, Flask, SQL, Pandas**  
+→ Generated contextual travel recommendations from user data  
+
+---
+
+### 🔹 Women in Tech Mentorship Platform (Concept Demo)
+→ Designed a platform for mentorship matching based on **skills & career goals**  
+→ Features: event notices, mentor discovery, chat, anonymous discussion channels  
+→ Built as a **prototype to solve cold-start challenges in community platforms**
+
+---
 
 ## 💬 Fun Fact
-I love solving problems and creating meaningful impacts in teamwork.
+I enjoy breaking down complex systems and building solutions that actually make sense in the real world 🚀
 
+---
 
-<!--
-**anjanaraghavendran/anjanaraghavendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
