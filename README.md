@@ -62,8 +62,8 @@
 
 <!-- Streak + Profile side by side -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anjanaraghavendran&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjanaraghavendran&theme=github_dark" width="48%" />
+ 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjanaraghavendran&theme=github_dark" width="50%" />
 </p>
 
 <!-- Languages -->
