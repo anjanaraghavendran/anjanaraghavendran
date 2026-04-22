@@ -61,10 +61,7 @@
 
 
 <!-- Streak + Profile side by side -->
-<p align="center">
- 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjanaraghavendran&theme=github_dark" width="50%" />
-</p>
+
 
 <!-- Languages -->
 <p align="center">
