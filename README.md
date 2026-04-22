@@ -59,14 +59,26 @@
 
 ## 📈 GitHub Stats
 
+<!-- Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anjanaraghavendran&theme=radical" />
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=anjanaraghavendran&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjanaraghavendran&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjanaraghavendran&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjanaraghavendran&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjanaraghavendran&theme=github_dark)
+<!-- Profile Summary -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjanaraghavendran&theme=github_dark" />
+</p>
 
+<!-- Side-by-side language stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjanaraghavendran&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjanaraghavendran&theme=github_dark" width="48%" />
+</p>
 
+<!-- Overall stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjanaraghavendran&theme=github_dark" width="60%" />
+</p>
 
 ---
 
