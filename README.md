@@ -90,7 +90,7 @@
 
 ---
 
-### 🔹 Resume & JD Skill Analyser - ATS Optimiser
+### 🔹 Resume & JD Skill Analyser - ATS Optimiser 
 → Designed an NLP-powered resume analyzer to compare resumes with job descriptions and evaluate ATS compatibility
 → Implemented skill extraction (dictionary + spaCy noun chunking) and semantic similarity using sentence-transformers
 → Developed a weighted ATS scoring system with matched, missing, and critical skill identification.
