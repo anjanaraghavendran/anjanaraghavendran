@@ -61,6 +61,12 @@
 
 
 ![Streak](https://streak-stats.demolab.com?user=anjanaraghavendran&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjanaraghavendran&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjanaraghavendran&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjanaraghavendran&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjanaraghavendran&theme=github_dark)
+
+
 
 ---
 
@@ -92,6 +98,4 @@
 I enjoy breaking down complex systems and building solutions that actually make sense in the real world 🚀
 
 ---
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjanaraghavendran&theme=github_dark)
 
