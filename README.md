@@ -66,7 +66,7 @@
 
 ## 🎯 Featured Projects
 
-### 🔹 AI Logistics Automation (OCR-based Rerouting)
+### 🔹 AI Logistics Automation (Package Analysis and Re-Routing)
 → Built an AI-powered OCR system to extract shipment data from damaged barcodes  
 → Enabled smarter rerouting decisions, improving logistics efficiency  
 → Focused on **data extraction, validation, and workflow automation**
@@ -80,10 +80,10 @@
 
 ---
 
-### 🔹 Women in Tech Mentorship Platform (Concept Demo)
-→ Designed a platform for mentorship matching based on **skills & career goals**  
-→ Features: event notices, mentor discovery, chat, anonymous discussion channels  
-→ Built as a **prototype to solve cold-start challenges in community platforms**
+### 🔹 Resume & JD Skill Analyser - ATS Optimiser
+→ Designed an NLP-powered resume analyzer to compare resumes with job descriptions and evaluate ATS compatibility
+→ Implemented skill extraction (dictionary + spaCy noun chunking) and semantic similarity using sentence-transformers
+→ Developed a weighted ATS scoring system with matched, missing, and critical skill identification.
 
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
@@ -92,4 +92,6 @@
 I enjoy breaking down complex systems and building solutions that actually make sense in the real world 🚀
 
 ---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjanaraghavendran&theme=github_dark)
 
