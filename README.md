@@ -59,28 +59,20 @@
 
 ## 📈 GitHub Stats
 
-<!-- Streak -->
+
+<!-- Streak + Profile side by side -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anjanaraghavendran&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=anjanaraghavendran&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjanaraghavendran&theme=github_dark" width="48%" />
 </p>
 
-<!-- Profile Summary -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjanaraghavendran&theme=github_dark" />
-</p>
-
-<!-- Side-by-side language stats -->
+<!-- Languages -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjanaraghavendran&theme=github_dark" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjanaraghavendran&theme=github_dark" width="48%" />
 </p>
 
-<!-- Overall stats -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjanaraghavendran&theme=github_dark" width="60%" />
-</p>
 
----
 
 ## 🎯 Featured Projects
 
